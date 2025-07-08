@@ -1,0 +1,30 @@
+
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment folders
+venv/
+env/
+
+# VSCode workspace settings (optional)
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python virtualenv wrapper files
+pip-log.txt
